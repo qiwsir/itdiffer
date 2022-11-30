@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gitbook-plugin-video": "^0.0.3",
+    "videojs-playlist": "^5.0.0"
+  }
+}
