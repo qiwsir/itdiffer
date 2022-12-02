@@ -4,9 +4,9 @@
 
 与此相关的书籍和课程，请参阅：
 
-- [《Python大学使用教程》](./python_course.html)
+- [《Python大学使用教程》](./python_course.md)
 
-- [《跟老齐学 Python：轻松入门》](./learn_python.html)
+- [《跟老齐学 Python：轻松入门》](./learn_python.md)
 
 - 在线课程
   - [以Python为起点的职业发展](https://live.csdn.net/room/csdngkk/oDKYYqm4)  直播讲座回放（*免费*）

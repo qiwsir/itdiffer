@@ -4,9 +4,9 @@
 
 与此相关的书籍和课程，请参阅：
 
-- [《机器学习数学基础》](http://www.itdiffer.com/math.html)
-- [《数据准备和特征工程》](http://www.itdiffer.com/feature.html)
-- [《跟老齐学Python：数据分析》](http://www.itdiffer.com/data.html)
+- [《机器学习数学基础》](https://github.com/qiwsir/Math4ML_book)
+- [《数据准备和特征工程》](./feature.md)
+- [《跟老齐学Python：数据分析》](./data.md)
 - 在线课程
   - [《机器学习数学基础》视频课程](https://ke.qq.com/course/5556479?quicklink=1#term_id=105748678)
   - [百度AI Studio：数据准备和特征工程](https://aistudio.baidu.com/aistudio/education/teacher/management/1337)  与《数据准备和特征工程》配套的源码，并有少量视频内容。（*免费*）
@@ -18,7 +18,7 @@
 
 ## 数学基础
 
-请访问【机器学习数学基础】专题网站：http://math.itdiffer.com/
+请访问【机器学习数学基础】专题网站：https://github.com/qiwsir/Math4ML_book
 
 - [想从事人工智能领域的工作，需要学习很复杂的数学吗？](https://mp.weixin.qq.com/s/mlHm4zIKeHeN60itSD9qWQ)
 
@@ -73,9 +73,5 @@
 - [手把手教你使用图像处理利器 OpenCV](https://qiwsir.github.io/2020/03/22/learn-opencv/)
 - [用 OpenCV 实现自动驾驶中的车道识别](https://mp.weixin.qq.com/s/AXs36AOAkkeC45EL9tfWOA)
 
-## 高性能计算
 
-本专题的内容请至如下地址浏览：
-
-https://gitee.com/qiwsir/sci-compute
 
