@@ -2,7 +2,13 @@
 
 为了帮助更多人学习 Python 编程语言，我编写了本册图书，并开源，免费发布。
 
-在阅读本书过程中，如果有疑问，可以留言（所有内容都发布在微信公众号上，可以直接在微信公众号留言）。
+## 开源仓库地址
+
+https://github.com/qiwsir/PythonTutorialForSelf-learners
+
+## 本书配套视频课程
+
+[《Python 完全自学教程》视频课程](https://bfw.xet.tech/s/3cMBcz)
 
 <img src="./images/selflearning.jpg" style="zoom:50%;" />
 
@@ -10,8 +16,20 @@
 
 - 与本书配套的《自学管理表》下载地址：百度网盘：链接: https://pan.baidu.com/s/1yrRG4axCZZ5dEwl9TWP9Gw 提取码: jqjj 
 - 推荐使用的练习题（含答案）：https://aistudio.baidu.com/aistudio/projectdetail/249125
-- 《Python 完全自学教程》视频课程：https://bfw.xet.tech/s/3cMBcz
 
+## 本书说明
+
+1. 本书以开源的形式发布，但版权归作者所有。如果有出版社愿意出版本书，请联系本作者。
+2. 读者在阅读本书过程中，如果发现错误，请通过 github 提交，或者进入本书读者交流群告知作者，不胜感激。
+
+## 本书 PDF 文件下载地址
+
+- github.com 下载：[《Python 完全自学教程》PDF ](https://github.com/qiwsir/PythonTutorialForSelf-learners/blob/main/Python%E5%AE%8C%E5%85%A8%E8%87%AA%E5%AD%A6%E6%95%99%E7%A8%8B.pdf)
+- 百度网盘下载：链接: https://pan.baidu.com/s/1Jy8vWh2C8UJOURoCxVzCHA 提取码: pw23
+
+## 本书源码地址
+
+[《Python 完全自学教程》github 仓库](https://github.com/qiwsir/PythonTutorialForSelf-learners/tree/main/codes)
 
 ## 学习交流 QQ 群（入群前必须认真读，且后果自负）：
 
@@ -22,31 +40,6 @@
 1. 群内不得发布任何违背法律、政策、道德以及其他与本群宗旨无关信息。
 
 <img src="./images/groupqq.png" />
-
-## 本书说明
-
-1. 本书以开源的形式发布，但版权归作者所有。如果有出版社愿意出版本书，请联系本作者。
-2. 读者在阅读本书过程中，如果发现错误，请通过 github 提交，或者进入本书读者交流群告知作者，不胜感激。
-3. 读者交流 QQ 群：26913719 ，群名称是：**Code Craft**
-4. 请关注微信公众号，会有更多相关文章和资料提供。
-5. 更多有关 Python 编程语言的文章：http://www.itdiffer.com/python.html
-
-## 本书配套视频课程
-
-[《Python 完全自学教程》视频课程](https://bfw.xet.tech/s/3cMBcz)
-
-## 本书仓库地址
-
-https://github.com/qiwsir/PythonTutorialForSelf-learners
-
-## 本书 PDF 文件下载地址
-
-- github.com 下载：[《Python 完全自学教程》PDF ](https://github.com/qiwsir/PythonTutorialForSelf-learners/blob/main/Python%E5%AE%8C%E5%85%A8%E8%87%AA%E5%AD%A6%E6%95%99%E7%A8%8B.pdf)
-- 百度网盘下载：链接: https://pan.baidu.com/s/1Jy8vWh2C8UJOURoCxVzCHA 提取码: pw23
-
-## 本书源码地址
-
-[《Python 完全自学教程》github 仓库](https://github.com/qiwsir/PythonTutorialForSelf-learners/tree/main/codes)
 
 -----
 
