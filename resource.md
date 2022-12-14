@@ -140,3 +140,4 @@ https://www.aliyundrive.com/s/bwDLGoPfWYV
 ## 其他工具
 
 - 英语校对：https://quillbot.com/
+- 分离歌曲中的音乐和人声：https://vocalremover.org/zh/ ，https://songdonkey.ai/?continueFlag=5006f878649efd27af0fdb1c8854031e
